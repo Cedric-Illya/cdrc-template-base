@@ -1,0 +1,44 @@
+{
+  "name": "cdrc-template-base",
+  "version": "0.1.0",
+  "description": "Basic configuration of frontend project with architecture and css framework.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cedric-Illya/cdrc-template-base.git"
+  },
+  "keywords": [
+    "responsive",
+    "css",
+    "sass",
+    "scss",
+    "templating",
+    "templates",
+    "jade",
+    "css scaffold"
+  ],
+  "author": "Cedric Illya <cedric.illya@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/register": "latest",
+    "autoprefixer": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-babel": "latest",
+    "gulp-beautify": "latest",
+    "gulp-changed": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-favicons": "latest",
+    "gulp-image": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-postcss": "latest",
+    "gulp-pug": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "node-sass": "latest",
+    "postcss": "latest"
+  }
+}
